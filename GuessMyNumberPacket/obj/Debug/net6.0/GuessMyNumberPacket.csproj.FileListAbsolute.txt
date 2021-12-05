@@ -1,0 +1,17 @@
+C:\Users\it partner\Desktop\c#\TcpGuessMyNumber\GuessMyNumberPacket\bin\Debug\net6.0\GuessMyNumberPacket.exe
+C:\Users\it partner\Desktop\c#\TcpGuessMyNumber\GuessMyNumberPacket\bin\Debug\net6.0\GuessMyNumberPacket.deps.json
+C:\Users\it partner\Desktop\c#\TcpGuessMyNumber\GuessMyNumberPacket\bin\Debug\net6.0\GuessMyNumberPacket.runtimeconfig.json
+C:\Users\it partner\Desktop\c#\TcpGuessMyNumber\GuessMyNumberPacket\bin\Debug\net6.0\GuessMyNumberPacket.dll
+C:\Users\it partner\Desktop\c#\TcpGuessMyNumber\GuessMyNumberPacket\bin\Debug\net6.0\ref\GuessMyNumberPacket.dll
+C:\Users\it partner\Desktop\c#\TcpGuessMyNumber\GuessMyNumberPacket\bin\Debug\net6.0\GuessMyNumberPacket.pdb
+C:\Users\it partner\Desktop\c#\TcpGuessMyNumber\GuessMyNumberPacket\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\it partner\Desktop\c#\TcpGuessMyNumber\GuessMyNumberPacket\obj\Debug\net6.0\GuessMyNumberPacket.csproj.AssemblyReference.cache
+C:\Users\it partner\Desktop\c#\TcpGuessMyNumber\GuessMyNumberPacket\obj\Debug\net6.0\GuessMyNumberPacket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\it partner\Desktop\c#\TcpGuessMyNumber\GuessMyNumberPacket\obj\Debug\net6.0\GuessMyNumberPacket.AssemblyInfoInputs.cache
+C:\Users\it partner\Desktop\c#\TcpGuessMyNumber\GuessMyNumberPacket\obj\Debug\net6.0\GuessMyNumberPacket.AssemblyInfo.cs
+C:\Users\it partner\Desktop\c#\TcpGuessMyNumber\GuessMyNumberPacket\obj\Debug\net6.0\GuessMyNumberPacket.csproj.CoreCompileInputs.cache
+C:\Users\it partner\Desktop\c#\TcpGuessMyNumber\GuessMyNumberPacket\obj\Debug\net6.0\GuessMyNumberPacket.csproj.CopyComplete
+C:\Users\it partner\Desktop\c#\TcpGuessMyNumber\GuessMyNumberPacket\obj\Debug\net6.0\GuessMyNumberPacket.dll
+C:\Users\it partner\Desktop\c#\TcpGuessMyNumber\GuessMyNumberPacket\obj\Debug\net6.0\ref\GuessMyNumberPacket.dll
+C:\Users\it partner\Desktop\c#\TcpGuessMyNumber\GuessMyNumberPacket\obj\Debug\net6.0\GuessMyNumberPacket.pdb
+C:\Users\it partner\Desktop\c#\TcpGuessMyNumber\GuessMyNumberPacket\obj\Debug\net6.0\GuessMyNumberPacket.genruntimeconfig.cache

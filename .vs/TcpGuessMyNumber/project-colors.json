@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4996b151-951c-45af-9199-4a60f17f85fa": {
+      "ProjectGuid": "4996b151-951c-45af-9199-4a60f17f85fa",
+      "DisplayName": "GuessMyNumberPacket",
+      "ColorIndex": 0
+    },
+    "3bb91e54-2966-4738-a848-3da7f6735a90": {
+      "ProjectGuid": "3bb91e54-2966-4738-a848-3da7f6735a90",
+      "DisplayName": "GuessMyNumberPacket",
+      "ColorIndex": 1
+    },
+    "b0573420-fc50-480c-ac78-e5116e796b0d": {
+      "ProjectGuid": "b0573420-fc50-480c-ac78-e5116e796b0d",
+      "DisplayName": "GuessMyNumberServer",
+      "ColorIndex": 2
+    },
+    "060b02ee-4dfa-4a11-859f-a126ba3c92d4": {
+      "ProjectGuid": "060b02ee-4dfa-4a11-859f-a126ba3c92d4",
+      "DisplayName": "GuessMyNumberClient",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
